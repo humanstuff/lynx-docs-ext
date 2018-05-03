@@ -1,0 +1,26 @@
+{
+  "name": "@humanstuff/lynx-docs-ext",
+  "version": "1.0.0",
+  "description": "Extensions to @lynx-json/lynx-docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humanstuff/lynx-docs-ext.git"
+  },
+  "keywords": [
+    "lynx-json",
+    "lynx-docs"
+  ],
+  "author": "HumanStuff, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humanstuff/lynx-docs-ext/issues"
+  },
+  "homepage": "https://github.com/humanstuff/lynx-docs-ext#readme",
+  "dependencies": {
+    "@lynx-json/lynx-parser": "^0.4.0"
+  }
+}

@@ -3,7 +3,7 @@ Extensions to @lynx-json/lynx-docs
 
 # Extension example
 
-Add the following `.meta.yml` file to your lynx-docs project:
+`npm install @humanstuff/lynx-docs-ext` and add the following `.meta.yml` file to your lynx-docs project:
 ```yaml
 realm: /meta/realms/
 variants:

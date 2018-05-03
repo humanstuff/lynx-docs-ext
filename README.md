@@ -1,5 +1,5 @@
 # lynx-docs-ext
-Extensions to @lynx-json/lynx-docs
+Extensions to [@lynx-json/lynx-docs](https://github.com/lynx-json/lynx-docs)
 
 # Extension example
 
